@@ -1,0 +1,55 @@
+body {
+  background: #4F5257;
+}
+
+h1 {
+  font-family: 'Rubik Mono One';
+  font-size: 60px;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+h2, p, label {
+  font-family: 'Open Sans';
+  color: #C4C4C4;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 2%;
+}
+
+h2 {
+  size: 20px;
+  margin: 0;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+img {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+      padding-top: 3%;
+      padding-bottom: 2%;
+}
+
+a:link { color: #C0ECF1; }
+a:visited { color: #397B8A; }
+
+.inputOrder {
+      display: block;
+      margin: 0 auto;
+      max-width: 70%;
+}
+
+.form-group {
+      display: block;
+      margin: 0 auto;
+      max-width: 80%;
+      text-align: center;
+}
